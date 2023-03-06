@@ -47,9 +47,7 @@ NOTE -- To practice the Logistic regression
 Just to pratice took the dataset for more just go through the python file
 
 
-# Just don't campare model for out performing as I am performing only one algorithm
-on this dataset. As we know algorithm varies according to the scenario or problem
-Statement of the Business.
+# Just don't campare model for out performing as I am performing only one algorithm on this dataset. As we know algorithm varies according to the scenario or problem Statement of the Business.
 
 
 
